@@ -1,4 +1,4 @@
-import DialogBox from "/home/meghansh/Desktop/DialogBox/my-project/src/DialogBox.tsx";
+import DialogBox from "./DialogBox";
 
 function App() {
   return (
